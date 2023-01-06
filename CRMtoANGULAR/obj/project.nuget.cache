@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "xZYWwW+iE7tj2pDadR5OpaRndTlWVHtFIPtR47994FZJ8YunMExYrFPrV6cpoHO3kXt06Oi0XULIuhwhuGvKxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MANASA\\source\\repos\\CRMtoANGULAR\\CRMtoANGULAR\\CRMtoANGULAR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MANASA\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\MANASA\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\MANASA\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\MANASA\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\MANASA\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\MANASA\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
